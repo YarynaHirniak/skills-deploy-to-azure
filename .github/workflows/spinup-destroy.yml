@@ -6,10 +6,10 @@ on:
 
 env:
   IMAGE_REGISTRY_URL: ghcr.io
-  AZURE_RESOURCE_GROUP: cd-with-actions
+  AZURE_RESOURCE_GROUP: yarynahirniak-ttt-app-ucu_group
   AZURE_APP_PLAN: actions-ttt-deployment
-  AZURE_LOCATION: '"East US"'
-  AZURE_WEBAPP_NAME: YarynaHirniak-ttt-app
+  AZURE_LOCATION: '"Canada Central"'
+  AZURE_WEBAPP_NAME: yarynahirniak-ttt-app-ucu
 
 jobs:
   setup-up-azure-resources:
